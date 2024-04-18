@@ -1,5 +1,7 @@
 # The Aspiring Farm Animal Veterinarian's Guide: Navigating the Path to Success
 
+![The artwork depicts a young woman named Rebekah in blue veterinary scrubs, surrounded by a variety of healthy farm animals including cows, horses, sheep, and chickens. The setting is a peaceful, grassy farm with a classic red barn in the background. The scene captures a moment of tender interaction between Rebekah and the animals, emphasizing her compassion and dedication to her future career as a farm animal veterinarian. The use of a warm, inviting color palette and a painterly style enhances the heartwarming and inspiring nature of the image.](cover.webp)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
